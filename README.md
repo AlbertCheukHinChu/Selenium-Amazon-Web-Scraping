@@ -12,3 +12,9 @@ I may write a bs4 version later as it is faster.
 I also plan to write a program such that everything scraped from Amazon can immediately be imported to database like MySQL, but it takes time.
 
 This program is far from perfect. You are welcome to contribute.
+
+Requirement:
+
+Python 3
+Selenium
+TinyDB
