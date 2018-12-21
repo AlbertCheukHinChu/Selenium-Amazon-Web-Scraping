@@ -16,5 +16,7 @@ This program is far from perfect. You are welcome to contribute.
 Requirement:
 
 Python 3
+
 Selenium
+
 TinyDB
